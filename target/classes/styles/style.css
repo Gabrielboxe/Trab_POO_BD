@@ -1,0 +1,26 @@
+.login_tf {
+    -fx-font-size: 14px;
+
+    /* Margin */
+    -fx-padding: 13px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+
+    -fx-pref-height: 40px;
+    -fx-pref-width: 300px;
+    -fx-background-radius: 50px;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 50px;
+}
+
+.login_btn {
+    -fx-pref-height: 40px;
+    -fx-pref-width: 200px;
+    -fx-background-radius: 50px;
+    -fx-border-radius: 50px;
+}
+
+.square_btn {
+    -fx-pref-height: 200px;
+    -fx-pref-width: 200px;
+}

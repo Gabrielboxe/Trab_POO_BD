@@ -1,0 +1,17 @@
+com\trabalhopratico\persistence\dao\ClienteDAO.class
+com\trabalhopratico\model\Ingresso.class
+com\trabalhopratico\persistence\dao\IDao.class
+com\trabalhopratico\model\BilheteriaReport.class
+com\trabalhopratico\model\Bilheteria.class
+com\trabalhopratico\model\Cliente.class
+com\trabalhopratico\persistence\dao\AtracaoDAO.class
+com\trabalhopratico\model\FormaPagamento.class
+com\trabalhopratico\persistence\dao\IngressoDAO.class
+com\trabalhopratico\model\Atracao.class
+com\trabalhopratico\persistence\ConnectionFactory.class
+com\trabalhopratico\persistence\dao\AtracaoClienteDAO.class
+com\trabalhopratico\model\AtracaoReport.class
+com\trabalhopratico\app\App.class
+com\trabalhopratico\app\AppLauncher.class
+com\trabalhopratico\model\AtracaoCliente.class
+com\trabalhopratico\persistence\dao\BilheteriaDAO.class
